@@ -17,12 +17,17 @@ Here are some ideas to get you started:
 
 ## I'm Ridwan Ikhsan.
 
-### 💻 &nbsp;About Me 
+- 🔭 I’m currently working on My First App MERN Stack
+- 🌱 I’m currently learning Node.js, Ruby
+- 📫 How to reach me: <a href="mailto:ridwan.jsx@gmail.com">ridwan.jsx@gmail.com</a>
+
+
+<!-- ### 💻 &nbsp;About Me 
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
-- 😄 &nbsp; Mobile & Web Enthusiast
+- 😄 &nbsp; Mobile & Web Enthusiast -->
 
-### 🛠 &nbsp;Tech Stack
+<!-- ### 🛠 &nbsp;Tech Stack
 
 - 🌐 &nbsp;
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
@@ -42,19 +47,20 @@ Here are some ideas to get you started:
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellij-idea&logoColor=000000)
-  
+   -->
 
-## My Stats
+<!-- ## My Stats
 <p>
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rdnsan&show_icons=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rdnsan&theme=radical&layout=compact&exclude_lang=java+r" />
 </a>
-</p>
+</p> -->
 
 
-##  🤝🏻 &nbsp;Connect with Me
+<!-- ##  🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/ridwanikhsan"><img src="https://img.shields.io/badge/-Ridwan%20Ikhsan-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:ridwan.jsx@gmail.com"><img src="https://img.shields.io/badge/-ridwan.jsx@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+ -->
