@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## I'm Ridwan Ikhsan.
 
 - 🔭 I’m currently working at Digitbox
-- 🌱 I’m currently learning Node.js, Ruby
+- 🌱 I’m currently learning Node.js
 - 📫 How to reach me: <a href="mailto:ridwan.jsx@gmail.com">ridwan.jsx@gmail.com</a>
 
 ### Tech Stack
