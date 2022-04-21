@@ -13,13 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋
+### Hi, I'm Ridwan Ikhsan 👋
 
-## I'm Ridwan Ikhsan.
-
-- 🔭 I’m currently working at Digitbox
-- 🌱 I’m currently learning Node.js
+- 🔭 I’m currently working on my personal projects
+- 🌱 I’m currently learning Golang
 - 📫 How to reach me: <a href="mailto:ridwan.jsx@gmail.com">ridwan.jsx@gmail.com</a>
+- ⚡ Fun fact: Programmer Batman 
 
 ### Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
