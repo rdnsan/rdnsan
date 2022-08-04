@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 ### Hi, I'm Ridwan Ikhsan 👋
 
-- 🔭 I’m currently working on my personal projects
-- 🌱 I’m currently learning Golang
+- 🔭 I’m currently working as Front End Developer
+- 🌱 I’m currently learning Node
 - 📫 How to reach me: <a href="mailto:ridwan.jsx@gmail.com">ridwan.jsx@gmail.com</a>
 - ⚡ Fun fact: Programmer Batman 
 
