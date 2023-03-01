@@ -15,13 +15,15 @@ Here are some ideas to get you started:
 
 <!-- ### Hi, I'm Ridwan Ikhsan 👋 -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&duration=4000&pause=1000&color=C9D1D9&vCenter=true&width=435&lines=Hi%2C+I'm+Ridwan+Ikhsan+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&duration=4000&pause=1000&color=58A6FF&vCenter=true&width=435&lines=Hi%2C+I'm+Ridwan+Ikhsan+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-![](https://komarev.com/ghpvc/?username=rdnsan&color=1abc9d&label=PROFILE+VIEWS)
+A self-taught developer who love to experiment and try new things related to Web technologies.
 
 - 🔭 I’m currently working as Front End Developer
 - 🌱 I’m currently learning tRPC
 - 📫 How to reach me: <a href="mailto:ridwan.jsx@gmail.com">ridwan.jsx@gmail.com</a>
+
+![](https://komarev.com/ghpvc/?username=rdnsan&color=1abc9d&label=PROFILE+VIEWS)
 
 ### Tech Stack
 <!--   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
