@@ -17,11 +17,12 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&duration=4000&pause=1000&color=58A6FF&vCenter=true&width=435&lines=Hi%2C+I'm+Ridwan+Ikhsan+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-A self-taught developer who love to experiment and try new things related to Web technologies.
+A self-taught developer who love to experiment and try new things related to Web and Mobile technologies.
 
 - 🔭 I’m currently working as Front End Developer
-- 🌱 I’m currently learning tRPC
+- 🌱 I’m currently learning [Hono](https://hono.dev)
 - 📫 How to reach me: <a href="mailto:ridwan.jsx@gmail.com">ridwan.jsx@gmail.com</a>
+- ⚡ Fun fact: Fallin love with React Native
 
 ![](https://komarev.com/ghpvc/?username=rdnsan&color=1abc9d&label=PROFILE+VIEWS)
 
@@ -34,7 +35,7 @@ A self-taught developer who love to experiment and try new things related to Web
   <a href="https://www.mongodb.com/"><img align="left" alt="MongoDB" title="MongoDB" width="21px" src="https://www.mongodb.com/assets/images/global/favicon.ico" /></a>
   <br> -->
 
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,vite,jest,mongodb,firebase" alt="tech stack"> <br> 
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,bun,deno,react,nextjs,redux,vite,vitest,jest,mongodb,firebase,sentry,emotion,materialui,tailwind" alt="tech stack"> <br> 
 
 ### Github Statistic
 <p align="left">
@@ -50,9 +51,9 @@ A self-taught developer who love to experiment and try new things related to Web
   <h3> 
     <strong>Actively Learning</strong>
   </h3>
-  <img src="https://skillicons.dev/icons?i=deno,flutter,threejs,figma,prisma,docker" alt="skills actively learning logos"> <br> 
+  <img src="https://skillicons.dev/icons?i=kotlin,swift,gradle,deno,figma,docker" alt="skills actively learning logos"> <br> 
   <h3>
     <strong> Plan to Learn </strong>
   </h3>
-  <img src="https://skillicons.dev/icons?i=astro,d3,tauri,nestjs,postgres,rust" alt="skills planning to learn logos">
+  <img src="https://skillicons.dev/icons?i=postgres" alt="skills planning to learn logos">
 </div>
