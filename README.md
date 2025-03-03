@@ -35,25 +35,23 @@ A self-taught developer who love to experiment and try new things related to Web
   <a href="https://www.mongodb.com/"><img align="left" alt="MongoDB" title="MongoDB" width="21px" src="https://www.mongodb.com/assets/images/global/favicon.ico" /></a>
   <br> -->
 
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,bun,deno,react,nextjs,redux,vite,vitest,jest,mongodb,firebase,sentry,emotion,materialui,tailwind" alt="tech stack"> <br> 
+<img src="https://skillicons.dev/icons?i=js,ts,kotlin,nodejs,bun,gradle,react,nextjs,redux,firebase,vite,vitest,jest,mongodb,sentry,styledcomponents,materialui,tailwind&perline=9" alt="tech stack"> <br> 
 
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/rdnsan">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rdnsan&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rdnsan&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats-pied-two-77.vercel.app/api?username=rdnsan&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-pied-two-77.vercel.app/api/top-langs/?username=rdnsan&layout=compact&langs_count=8&theme=radical"/>
 </a>
 </p>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=rdnsan&theme=radical)](https://git.io/streak-stats)
 
 <div align="left">
   <h3> 
     <strong>Actively Learning</strong>
   </h3>
-  <img src="https://skillicons.dev/icons?i=kotlin,swift,gradle,deno,figma,docker" alt="skills actively learning logos"> <br> 
+  <img src="https://skillicons.dev/icons?i=deno,figma,docker" alt="skills actively learning logos"> <br> 
   <h3>
     <strong> Plan to Learn </strong>
   </h3>
-  <img src="https://skillicons.dev/icons?i=postgres" alt="skills planning to learn logos">
+  <img src="https://skillicons.dev/icons?i=postgres,sqlite,swift" alt="skills planning to learn logos">
 </div>
