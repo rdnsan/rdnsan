@@ -41,9 +41,10 @@ A self-taught developer who love to experiment and try new things related to Web
 <p align="left">
 <a href="https://github.com/rdnsan">
   <img height="180em" src="https://github-readme-stats-pied-two-77.vercel.app/api?username=rdnsan&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-pied-two-77.vercel.app/api/top-langs/?username=rdnsan&layout=compact&langs_count=8&theme=radical"/>
 </a>
 </p>
+
+![Top Langs](https://github-readme-stats-pied-two-77.vercel.app/api/top-langs/?username=rdnsan&size_weight=0.5&count_weight=0.5&langs_count=8&layout=donut-vertical&show_icons=true&theme=radical)
 
 <div align="left">
   <h3> 
@@ -53,5 +54,5 @@ A self-taught developer who love to experiment and try new things related to Web
   <h3>
     <strong> Plan to Learn </strong>
   </h3>
-  <img src="https://skillicons.dev/icons?i=postgres,sqlite,swift" alt="skills planning to learn logos">
+  <img src="https://skillicons.dev/icons?i=sqlite,postgres,swift" alt="skills planning to learn logos">
 </div>
