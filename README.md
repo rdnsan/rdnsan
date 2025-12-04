@@ -21,7 +21,7 @@ A self-taught developer who love to experiment and try new things related to Web
 
 - 🔭 I’m currently working as Front End Developer
 - 🌱 I’m currently learning [Hono](https://hono.dev)
-- 📫 How to reach me: <a href="mailto:ridwan.jsx@gmail.com">ridwan.jsx@gmail.com</a>
+- 📫 How to reach me: <a href="mailto:me@rdnsan.com">me@rdnsan.com</a>
 - ⚡ Fun fact: Fallin love with React Native
 
 ![](https://komarev.com/ghpvc/?username=rdnsan&color=1abc9d&label=PROFILE+VIEWS)
