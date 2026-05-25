@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 A self-taught developer who love to experiment and try new things related to Web and Mobile technologies.
 
+<!-- - 🌱 I’m currently learning [Hono](https://hono.dev) -->
 - 🔭 I’m currently working as Front End Developer
-- 🌱 I’m currently learning [Hono](https://hono.dev)
 - 📫 How to reach me: <a href="mailto:me@rdnsan.com">me@rdnsan.com</a>
 - ⚡ Fun fact: Fallin love with React Native
 
@@ -35,7 +35,7 @@ A self-taught developer who love to experiment and try new things related to Web
   <a href="https://www.mongodb.com/"><img align="left" alt="MongoDB" title="MongoDB" width="21px" src="https://www.mongodb.com/assets/images/global/favicon.ico" /></a>
   <br> -->
 
-<img src="https://skillicons.dev/icons?i=js,ts,kotlin,nodejs,bun,gradle,react,nextjs,redux,firebase,vite,vitest,jest,mongodb,sentry,styledcomponents,materialui,tailwind&perline=9" alt="tech stack"> <br> 
+<img src="https://skillicons.dev/icons?i=js,ts,kotlin,nodejs,bun,gradle,react,firebase,vite,vitest,jest,tailwind&perline=6" alt="tech stack"> <br> 
 
 ### Github Statistic
 <p align="left">
@@ -50,9 +50,9 @@ A self-taught developer who love to experiment and try new things related to Web
   <h3> 
     <strong>Actively Learning</strong>
   </h3>
-  <img src="https://skillicons.dev/icons?i=deno,figma,docker" alt="skills actively learning logos"> <br> 
+  <img src="https://skillicons.dev/icons?i=deno,elysia,rust,sqlite,postgres" alt="skills actively learning logos"> <br> 
   <h3>
     <strong> Plan to Learn </strong>
   </h3>
-  <img src="https://skillicons.dev/icons?i=sqlite,postgres,swift" alt="skills planning to learn logos">
+  <img src="https://skillicons.dev/icons?i=swift,cpp" alt="skills planning to learn logos">
 </div>
